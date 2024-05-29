@@ -5,7 +5,7 @@ Bu grafikte suç tipine göre 2011- 2020 yılları arasında cezaevine giren hü
 Veri Seti: 
 
 
-Suç türü,Toplam
+'''Suç türü,Toplam
 Ailenin korunması tedbirine aykırılık,41016
 Askeri Ceza Kanunu'na muhalefet,18114
 Ateşli silahlar ve bıçaklar ile ilgili suçlar,58320
@@ -27,7 +27,7 @@ Trafik suçları,50346
 Uyuşturucu madde ile ilgili suçlar ,178358
 Yağma,86762
 Yaralama,260024
-Zimmet,2300
+Zimmet,2300'''
 
 
 
