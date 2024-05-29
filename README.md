@@ -3,30 +3,7 @@ Grafik 1:
 Bu grafikte suç tipine göre 2011- 2020 yılları arasında cezaevine giren hükümlü sayılarının değişimlerinin görselleştirilmesi amaçlanmıştır. Veri seti Excel formatındadır. Öncelikle Excel içerisinde gerekli işlemler yapılmış, sonrasında R Studio’ya yüklenmiştir. 
 
 Veri Seti: 
-[UpSuç türü,Toplam
-Ailenin korunması tedbirine aykırılık,41016
-Askeri Ceza Kanunu'na muhalefet,18114
-Ateşli silahlar ve bıçaklar ile ilgili suçlar,58320
-Cinsel suçlar,45252
-Dolandırıcılık,48738
-Hakaret,33320
-Hırsızlık,297078
-İcra İflas Kanunu'na muhalefet,179531
-Kaçakçılık,42659
-Kişiyi hürriyetinden yoksun kılma,27664
-Kötü muamele,874
-Mala zarar verme,20830
-Orman suçları,5272
-Öldürme,74120
-Rüşvet,1293
-Sahtecilik,66382
-Tehdit,72389
-Trafik suçları,50346
-Uyuşturucu madde ile ilgili suçlar ,178358
-Yağma,86762
-Yaralama,260024
-Zimmet,2300
-loading suc_turu.txt…]()
+
 
 Suç türü,Toplam
 Ailenin korunması tedbirine aykırılık,41016
